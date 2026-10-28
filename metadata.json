@@ -1,0 +1,6 @@
+{
+  "name": "ATELIER NOIR — Luxury Fashion Portfolio & Boutique",
+  "description": "An understated luxury fashion editorial portfolio and contemporary online boutique combining timeless craftsmanship, architectural silhouettes, and curated e-commerce.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
